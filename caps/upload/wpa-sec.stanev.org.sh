@@ -13,7 +13,7 @@ else
 	keyID=""
 fi
 
-uploadURL="http://wpa-sec.stanev.org/?submit"
+uploadURL="https://wpa-sec.stanev.org/?submit"
 
 # Load echoColours for pretty output
 source "../echoColours.sh"
